@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.rodrigodiaz.controlador"},{"l":"org.rodrigodiaz.db"},{"l":"org.rodrigodiaz.modelo"},{"l":"org.rodrigodiaz.sistema"},{"l":"org.rodrigodiaz.vista"}]
